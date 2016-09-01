@@ -2,7 +2,7 @@
 use yii\helpers\Html;
 use yii\widgets\ActiveForm;
 use yii\jui\DatePicker;
-use beastbytes\wizard\WizardMenu;
+use strelkovk\wizard\WizardMenu;
 
 $this->title = 'Registration Wizard';
 

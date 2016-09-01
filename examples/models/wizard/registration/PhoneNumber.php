@@ -1,5 +1,5 @@
 <?php
-namespace beastbytes\wizard\models\wizard\registration;
+namespace strelkovk\wizard\models\wizard\registration;
 
 use yii\base\Model;
 

@@ -3,12 +3,12 @@
  * WizardMenu Class file
  *
  * @author    Chris Yates
- * @copyright Copyright &copy; 2015 BeastBytes - All Rights Reserved
+ * @copyright Copyright &copy; 2015 strelkovk - All Rights Reserved
  * @license   BSD 3-Clause
  * @package   Wizard
  */
 
-namespace beastbytes\wizard;
+namespace strelkovk\wizard;
 
 use yii\widgets\Menu;
 
@@ -40,7 +40,7 @@ class WizardMenu extends Menu
      */
     public $step;
     /**
-     * @var \beastbytes\wizard\WizardBehavior The Wizard
+     * @var \strelkovk\wizard\WizardBehavior The Wizard
      */
     public $wizard;
 

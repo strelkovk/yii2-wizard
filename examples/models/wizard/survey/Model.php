@@ -1,5 +1,5 @@
 <?php
-namespace beastbytes\wizard\models\wizard\survey;
+namespace strelkovk\wizard\models\wizard\survey;
 
 class Model extends \yii\base\Model
 {

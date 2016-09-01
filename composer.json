@@ -1,12 +1,12 @@
 {
-    "name": "beastbytes/yii2-wizard",
+    "name": "strelkovk/yii2-wizard",
     "description": "Yii2 extension to handle multi-form wizards",
     "keywords": ["yii2", "behavior", "form", "forms", "wizard"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/beastbytes/yii2-wizard/issues",
-        "source": "https://github.com/beastbytes/yii2-wizard"
+        "issues": "https://github.com/strelkovk/yii2-wizard/issues",
+        "source": "https://github.com/strelkovk/yii2-wizard"
     },
     "authors": [
         {
@@ -18,6 +18,6 @@
         "yiisoft/yii2": "*"
     },
     "autoload": {
-        "psr-4": { "beastbytes\\wizard\\": "" }
+        "psr-4": { "strelkovk\\wizard\\": "" }
     }
 }

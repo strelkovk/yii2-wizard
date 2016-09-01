@@ -20,13 +20,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist beastbytes/yii2-wizard
+php composer.phar require --prefer-dist strelkovk/yii2-wizard
 ```
 
 or add
 
 ```json
-"beastbytes/yii2-wizard": "*"
+"strelkovk/yii2-wizard": "*"
 ```
 
 to the require section of your composer.json.

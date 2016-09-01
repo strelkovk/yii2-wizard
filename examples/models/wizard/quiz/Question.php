@@ -1,5 +1,5 @@
 <?php
-namespace beastbytes\wizard\models\wizard\quiz;
+namespace strelkovk\wizard\models\wizard\quiz;
 
 use yii\base\Model;
 
