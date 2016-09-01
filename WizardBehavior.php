@@ -517,6 +517,8 @@ class WizardBehavior extends Behavior
             $this->_session[$this->_timeoutKey] = time() + $this->timeout;
         }
 
+        $params['_t'] = microtime();
+
         $this->owner->redirect(array_merge(['/'.$this->owner->route], $params), self::HTTP_STATUS_CODE);
     }
 
