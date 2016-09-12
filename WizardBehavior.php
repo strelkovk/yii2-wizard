@@ -360,7 +360,7 @@
             if (!isset($this->_session[$this->_stepDataKey][$step])) {
                 $this->_session[$this->_stepDataKey][$step] = new \ArrayObject;
             }
-            $this->_session[$this->_stepDataKey][$step][] = $data;
+            $this->_session[$this->_stepDataKey][$step][0] = $data;
         }
 
         /**
